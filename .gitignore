@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+config/config.ini
+data/
+test.py
