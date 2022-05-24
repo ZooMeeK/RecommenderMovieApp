@@ -1,0 +1,133 @@
+19-05-2022 19:19:32 	 Create connection 
+19-05-2022 19:19:33 	 Close connection 
+19-05-2022 19:19:33 	 Get all ratings data 
+19-05-2022 19:19:33 	 Create connection 
+19-05-2022 19:19:33 	 Close connection 
+19-05-2022 19:19:33 	 Get movie names for movie_id 29 
+19-05-2022 19:19:33 	 User 95 expects rating 5.0 for film City of Lost Children, The  
+19-05-2022 19:20:27 	 Create connection 
+19-05-2022 19:20:27 	 Close connection 
+19-05-2022 19:20:27 	 Get all ratings data 
+19-05-2022 19:20:39 	 Create connection 
+19-05-2022 19:20:40 	 Close connection 
+19-05-2022 19:20:40 	 Get all ratings data 
+19-05-2022 19:20:47 	 Create connection 
+19-05-2022 19:20:47 	 Close connection 
+19-05-2022 19:20:47 	 Get all ratings data 
+19-05-2022 19:20:57 	 Create connection 
+19-05-2022 19:20:57 	 Close connection 
+19-05-2022 19:20:57 	 Get all ratings data 
+19-05-2022 19:23:59 	 Create connection 
+19-05-2022 19:24:00 	 Close connection 
+19-05-2022 19:24:00 	 Get all ratings data 
+19-05-2022 19:24:05 	 Create connection 
+19-05-2022 19:24:05 	 Close connection 
+19-05-2022 19:24:05 	 Get all ratings data 
+19-05-2022 19:24:05 	 Create connection 
+19-05-2022 19:24:05 	 Close connection 
+19-05-2022 19:24:05 	 Get movie names for movie_id 29 
+19-05-2022 19:24:05 	 User 1 expects rating 0.0 for film City of Lost Children, The  
+19-05-2022 19:24:05 	 Create connection 
+19-05-2022 19:24:05 	 Close connection 
+19-05-2022 19:24:05 	 Get movie names for movie_id 29 
+19-05-2022 19:24:05 	 User 95 expects rating 5.0 for film City of Lost Children, The  
+19-05-2022 20:00:51 	 Create connection 
+19-05-2022 20:00:51 	 Close connection 
+19-05-2022 20:00:51 	 Get all ratings data 
+19-05-2022 20:00:51 	 Create connection 
+19-05-2022 20:00:51 	 Close connection 
+19-05-2022 20:00:51 	 Get movie names for movie_id 29 
+19-05-2022 20:00:51 	 User 1 expects rating 0.0 for film City of Lost Children, The  
+19-05-2022 20:00:51 	 Create connection 
+19-05-2022 20:00:51 	 Close connection 
+19-05-2022 20:00:51 	 Get movie names for movie_id 29 
+19-05-2022 20:00:51 	 User 95 expects rating 5.0 for film City of Lost Children, The  
+19-05-2022 20:01:13 	 Create connection 
+19-05-2022 20:01:13 	 Close connection 
+19-05-2022 20:01:13 	 Get all ratings data 
+19-05-2022 20:01:13 	 Create connection 
+19-05-2022 20:01:14 	 Close connection 
+19-05-2022 20:01:14 	 Get movie names for movie_id 29 
+19-05-2022 20:01:14 	 User 1 expects rating 0.0 for film City of Lost Children, The  
+19-05-2022 20:01:14 	 Create connection 
+19-05-2022 20:01:14 	 Close connection 
+19-05-2022 20:01:14 	 Get movie names for movie_id 29 
+19-05-2022 20:01:14 	 User 95 expects rating 5.0 for film City of Lost Children, The  
+19-05-2022 20:01:16 	 Create connection 
+19-05-2022 20:01:16 	 Close connection 
+19-05-2022 20:01:16 	 Get all ratings data 
+19-05-2022 20:01:16 	 Create connection 
+19-05-2022 20:01:16 	 Close connection 
+19-05-2022 20:01:16 	 Get movie names for movie_id 29 
+19-05-2022 20:01:16 	 User 1 expects rating 0.0 for film City of Lost Children, The  
+19-05-2022 20:01:16 	 Create connection 
+19-05-2022 20:01:16 	 Close connection 
+19-05-2022 20:01:16 	 Get movie names for movie_id 29 
+19-05-2022 20:01:16 	 User 95 expects rating 5.0 for film City of Lost Children, The  
+19-05-2022 20:04:38 	 Create connection 
+19-05-2022 20:04:39 	 Close connection 
+19-05-2022 20:04:39 	 Get all ratings data 
+19-05-2022 20:04:39 	 Create connection 
+19-05-2022 20:04:39 	 Close connection 
+19-05-2022 20:04:39 	 Get movie names for movie_id 29 
+19-05-2022 20:04:39 	 User 1 expects rating 0.0 for film City of Lost Children, The  
+19-05-2022 20:04:39 	 Create connection 
+19-05-2022 20:04:39 	 Close connection 
+19-05-2022 20:04:39 	 Get movie names for movie_id 29 
+19-05-2022 20:04:39 	 User 95 expects rating 5.0 for film City of Lost Children, The  
+19-05-2022 20:06:23 	 Create connection 
+19-05-2022 20:06:23 	 Close connection 
+19-05-2022 20:06:23 	 Get all ratings data 
+19-05-2022 20:06:23 	 Error 0 
+19-05-2022 20:06:23 	 Create connection 
+19-05-2022 20:06:23 	 Close connection 
+19-05-2022 20:06:23 	 Get movie names for movie_id 29 
+19-05-2022 20:06:23 	 User 95 expects rating 5.0 for film City of Lost Children, The  
+19-05-2022 20:06:31 	 Create connection 
+19-05-2022 20:06:31 	 Close connection 
+19-05-2022 20:06:31 	 Get all ratings data 
+19-05-2022 20:06:32 	 Error 0 
+19-05-2022 20:06:32 	 Create connection 
+19-05-2022 20:06:32 	 Close connection 
+19-05-2022 20:06:32 	 Get movie names for movie_id 29 
+19-05-2022 20:06:32 	 User 95 expects rating 5.0 for film City of Lost Children, The  
+19-05-2022 20:47:43 	 Create connection 
+19-05-2022 20:47:43 	 Close connection 
+19-05-2022 20:47:43 	 Get all ratings data 
+19-05-2022 20:47:43 	 Error 0 
+19-05-2022 20:47:43 	 Create connection 
+19-05-2022 20:47:43 	 Close connection 
+19-05-2022 20:47:43 	 Get movie names for movie_id 29 
+19-05-2022 20:47:43 	 User 95 expects rating 5.0 for film City of Lost Children, The  
+19-05-2022 21:22:31 	 Create connection 
+19-05-2022 21:22:31 	 Close connection 
+19-05-2022 21:27:15 	 Create connection 
+19-05-2022 21:27:15 	 Close connection 
+19-05-2022 21:27:15 	 Create new movie_id 193610 
+19-05-2022 21:27:15 	 Create connection 
+19-05-2022 21:28:07 	 Create connection 
+19-05-2022 21:28:07 	 Close connection 
+19-05-2022 21:28:07 	 Create new movie_id 193610 
+19-05-2022 21:28:07 	 Create connection 
+19-05-2022 21:28:27 	 Create connection 
+19-05-2022 21:28:27 	 Close connection 
+19-05-2022 21:28:27 	 Create new movie_id 193610 
+19-05-2022 21:28:27 	 Create connection 
+19-05-2022 21:30:59 	 Create connection 
+19-05-2022 21:30:59 	 Close connection 
+19-05-2022 21:30:59 	 Create new movie_id 193610 
+19-05-2022 21:30:59 	 Create connection 
+19-05-2022 21:30:59 	 Close connection 
+19-05-2022 21:30:59 	 Add folm 21314421dsddf by movie_id 193610 
+19-05-2022 21:31:04 	 Create connection 
+19-05-2022 21:31:04 	 Close connection 
+19-05-2022 21:31:04 	 Create new movie_id 193611 
+19-05-2022 21:31:04 	 Create connection 
+19-05-2022 21:31:04 	 Close connection 
+19-05-2022 21:31:04 	 Add folm 21314421dsddf by movie_id 193611 
+19-05-2022 21:31:23 	 Create connection 
+19-05-2022 21:31:23 	 Close connection 
+19-05-2022 21:31:23 	 Create new movie_id 193612 
+19-05-2022 21:31:23 	 Create connection 
+19-05-2022 21:31:23 	 Close connection 
+19-05-2022 21:31:23 	 Add folm 21314421dsddf by movie_id 193612 

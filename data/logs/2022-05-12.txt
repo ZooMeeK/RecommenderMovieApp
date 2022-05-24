@@ -1,0 +1,16 @@
+12-05-2022 21:36:38 	 Create connection 
+12-05-2022 21:36:38 	 Close connection 
+12-05-2022 21:57:19 	 Create connection 
+12-05-2022 21:57:20 	 Close connection 
+12-05-2022 21:57:20 	 Get rating user_id 1 by movie_id 1, rating 3.0 
+12-05-2022 21:59:15 	 Create connection 
+12-05-2022 21:59:15 	 Close connection 
+12-05-2022 21:59:15 	 Get rating user_id 1 by movie_id 1, rating 3.0 
+12-05-2022 21:59:15 	 Получили рейтинг пользователя 1 для фильма 1, рейтинг 3.0 
+12-05-2022 22:00:03 	 Create connection 
+12-05-2022 22:00:03 	 Close connection 
+12-05-2022 22:00:03 	 Get rating user_id 1 by movie_id 1, rating 3.0 
+12-05-2022 22:00:03 	 РџРѕР»СѓС‡РёР»Рё СЂРµР№С‚РёРЅРі РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ 1 РґР»СЏ С„РёР»СЊРјР° 1, СЂРµР№С‚РёРЅРі 3.0 
+12-05-2022 22:03:05 	 Create connection 
+12-05-2022 22:03:05 	 Close connection 
+12-05-2022 22:03:05 	 Get rating user_id 1 by movie_id 1, rating 3.0 
